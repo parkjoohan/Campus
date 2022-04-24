@@ -59,3 +59,22 @@
     - 방문한 캠핑장
     - 북마크한 캠핑장
     - 작성한 게시글
+
+
+## 업무 성과
+- 기술 명세서, 와이어 프레임 등을 통한 설계 단계 진행
+- Next.js를 활용한 SEO(Search Engine Optimization)를 위한 Server-Side Rendering(SSR)을 가능
+- Next.js를 통해 페이지 간 빠르고 매끄러운 전환, 직관적인 페이지 기반 라우팅 가능
+- Axios 기능 모듈화
+- Bootstrap을 통한 가독성 있는 웹 제작
+- Firebase를 활용한 쉬운 회원 관리 및 사용자의 접근성 향상
+- Jenkins와 GitLab을 연동한 배포 경험
+- GitHub/GitLab + Jenkins을 통한 CI/CD 환경 구축 및 배포
+- Git, JIRA, Webex, Mattermost를 통한 협업
+
+
+## 향상된 역량
+- Next.js를 활용하여 기존 React.js에서의 SEO 취약점 극복과 서비스 속도 향상
+- 컴포넌트 기능별 분리 & Axios 모듈화를 통한 개발 체계화
+- JAVASCRIPT, HTML, CSS를 활용한 원활한 Front-End 제작 능력 학습
+- Jenkins와 GitLab을 연동한 배포
